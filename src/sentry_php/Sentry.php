@@ -9,7 +9,7 @@
  * @Date:   2018-12-25 18:05:27
  * @Last Modified 2019-03-16
  */
-namespace sentry_log;
+namespace tekintian\sentry_php;
 
 require_once __DIR__ . '/Autoloader.php';
 include __DIR__ . '/Processor/SanitizeDataProcessor.php';
