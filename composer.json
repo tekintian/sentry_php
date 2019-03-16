@@ -1,7 +1,7 @@
 {
     "name": "tekintian/sentry_php",
     "author": [{"name":"tekintian"},{"url":"http://dev.tekin.cn"}],
-    "description": "sentry raven thinkphp5适配, tp5 sentry 日志管理工具, sentry sdk for php thinkphp5 ",
+    "description": "Sentry PHP 可视化日志管理系统,支持 php5.3以上版本, 支持 thinkphp5, ci,  yii2, laravel等PHP框架, 可以集成到框架中,也可直接使用, sentry raven thinkphp5适配, tp5 sentry 日志管理工具, sentry sdk for php thinkphp5, ",
     "type": "library",
     "keywords": ["sentry","thinkphp5","sentry tp5","sentry tp5 日志工具", "日志管理工具"],
     "homepage": "https://github.com/tekintian/sentry_php",
