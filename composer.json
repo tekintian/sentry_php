@@ -1,0 +1,19 @@
+{
+    "name": "tekintian/sentry_php",
+    "author": [{"name":"tekintian"},{"url":"http://dev.tekin.cn"}],
+    "description": "sentry raven thinkphp5适配, tp5 sentry 日志管理工具, sentry sdk for php thinkphp5 ",
+    "type": "library",
+    "keywords": ["sentry","thinkphp5","sentry tp5","sentry tp5 日志工具", "日志管理工具"],
+    "homepage": "https://github.com/tekintian/sentry_php",
+    "license": "BSD-3-Clause",
+    "support": {
+        "forum": "https://github.com/tekintian/sentry_php",
+        "source": "https://github.com/tekintian/sentry_php"
+    },
+    "version":"1.9",
+    "autoload": {
+        "psr-4": {
+            "tekintian\\": "src"
+        }
+    }
+}
